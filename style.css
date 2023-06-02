@@ -64,3 +64,13 @@ body {
     background-color: #4CAF50;
     color: white;
   }
+    
+  .container {
+    max-width: 860px;
+    margin-bottom: auto;
+
+  }
+  
+  p {
+    margin: 10000000;
+  }
